@@ -1,0 +1,9 @@
+
+
+# Get the volume of a sphere with radius 6
+
+pi=3.14159
+r=6.0
+v=4.0/3.0*pi*r**3
+
+print('The volume of the sphere is :',v)
